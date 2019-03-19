@@ -1,0 +1,10 @@
+.settings
+Debug/
+.cproject
+.project
+sim_trace*
+*.mp4
+animate_test.py
+string.py
+SimData/
+__pycache__
